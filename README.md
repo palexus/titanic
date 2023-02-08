@@ -13,6 +13,6 @@ Clone this project and create a new environement, e.g.
 
 `pip install -r requirements.txt`
 
-`conda install jupyter`
+`conda install jupyterlab`
  
  Then enjoy the solution in the jupyter notebook.
